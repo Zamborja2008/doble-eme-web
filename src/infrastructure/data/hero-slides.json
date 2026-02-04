@@ -1,0 +1,26 @@
+{
+  "slides": [
+    {
+      "id": "slide-1",
+      "title": "¿Qué es el Kéfir?",
+      "description": "El kéfir es una bebida fermentada rica en probióticos que se obtiene a partir de granos de kefir. Estos granos contienen una combinación única de bacterias y levaduras beneficiosas que transforman la leche en una bebida cremosa, ligeramente ácida y llena de nutrientes esenciales para tu salud digestiva.",
+      "imageUrl": "/images/hero/que-es-Kefir.png",
+      "order": 1
+    },
+    {
+      "id": "slide-2",
+      "title": "Beneficios de Tomar Kéfir",
+      "description": "El consumo regular de kéfir fortalece tu sistema inmunológico, mejora la digestión, ayuda a absorber nutrientes, reduce la inflamación intestinal, combate la osteoporosis, previene y combate la gastritis y contribuye a mantener un microbioma saludable. Es una excelente fuente de proteínas, calcio, vitamina B12 y probióticos vivos.",
+      "imageUrl": "/images/hero/beneficios-kefir.png",
+      "order": 2
+    }
+    ,
+    {
+      "id": "slide-3",
+      "title": "¿Quiénes pueden tomar Kéfir?",
+      "description": "El Kéfir puede ser consumido por la mayoria de las personas, incluyendo a veganos, e intolerantes a la lactosa. Sin embargo, algunas personas deben moderar o evitar su consumo: Personas con sistema digestivo sensibble o débil. Personas inmunodeprimidas. Personas con daños en la mucosa intestinal. Personas en tratamiento y enfermedades autoinmunes, quimioterapia o radioterapia.",
+      "imageUrl": "/images/hero/quienes-pueden-tomar-kefir.png",
+      "order": 3
+    }
+  ]
+}

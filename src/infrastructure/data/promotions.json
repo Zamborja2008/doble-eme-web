@@ -1,0 +1,15 @@
+{
+  "promotions": [
+    {
+      "id": "promo-1",
+      "title": "¡Semana de la Leche!",
+      "description": "30% de descuento en todos los productos lácteos",
+      "imageUrl": "/images/promotions/kefir3.jpeg",
+      "discountPercentage": 30,
+      "startDate": "2024-02-01T00:00:00Z",
+      "endDate": "2024-02-07T23:59:59Z",
+      "products": ["prod-1", "prod-2"],
+      "isActive": true
+    }
+  ]
+}

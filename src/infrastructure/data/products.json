@@ -1,0 +1,255 @@
+{
+  "categories": [
+    {
+      "id": "cat-1",
+      "name": "Lácteos",
+      "slug": "lacteos",
+      "description": "Productos lácteos frescos"
+    },
+    {
+      "id": "cat-2",
+      "name": "Lácteos",
+      "slug": "Lácteos",
+      "description": "Bebidas refrescantes"
+    },
+    {
+      "id": "cat-3",
+      "name": "Lácteos",
+      "slug": "Lácteos",
+      "description": "Bebidas refrescantes"
+    },
+    {
+      "id": "cat-4",
+      "name": "Lácteos",
+      "slug": "Lácteos",
+      "description": "Bebidas refrescantes"
+    },
+    {
+      "id": "cat-5",
+      "name": "Lácteos",
+      "slug": "Lácteos",
+      "description": "Bebidas refrescantes"
+    }
+  ],
+  "products": [
+    {
+      "id": "prod-1",
+      "name": "Yogurt Kéfir Natural 1 L",
+      "slug": "leche-entera-premium-1l",
+      "description": "Leche entera fresca de alta calidad, rica en calcio y vitaminas. Perfecta para toda la familia.",
+      "shortDescription": "Elaborado de leche fresca alto en probióticos. Sin azúcar añadida.",
+      "price": 23.00,
+      "discountPrice": null,
+      "category": {
+        "id": "cat-1",
+        "name": "Lácteos",
+        "slug": "lacteos"
+      },
+      "imageUrl": "/images/products/yogurt-kefir-natural-1kg.jpeg",
+      "images": [
+        "/images/products/kefir2.jpeg",
+        "/images/products/kefir3.jpeg"
+      ],
+      "nutritionalInfo": {
+        "servingSize": "240ml",
+        "calories": 150,
+        "totalFat": "8g",
+        "saturatedFat": "5g",
+        "transFat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "120mg",
+        "totalCarbohydrate": "12g",
+        "dietaryFiber": "0g",
+        "sugars": "12g",
+        "protein": "8g",
+        "vitamins": {
+          "Calcio": "30%",
+          "Vitamina D": "25%"
+        }
+      },
+      "characteristics": [
+        "100% natural",
+        "Sin conservantes",
+        "Pasteurizada",
+        "Rica en calcio"
+      ],
+      "stock": 50,
+      "isNew": false,
+      "isFeatured": true,
+      "salesCount": 245,
+      "createdAt": "2024-01-15T00:00:00Z",
+      "updatedAt": "2024-02-01T00:00:00Z"
+    },
+    {
+      "id": "prod-2",
+      "name": "Yogurt Kéfir Mango 1 L",
+      "slug": "yogurt-natural-1kg",
+      "description": "Yogurt natural cremoso sin azúcar añadida. Ideal para desayunos saludables.",
+      "shortDescription": "Elaborado de leche y pulpa de mango. Sin saborizantes artificiales.",
+      "price": 28.00,
+      "discountPrice": null,
+      "category": {
+        "id": "cat-2",
+        "name": "Lácteos",
+        "slug": "lacteos"
+      },
+      "imageUrl": "/images/products/yogurt-kefir-mango-1kg.jpeg",
+      "images": ["/images/products/kefir1.png"],
+      "characteristics": [
+        "Sin azúcar añadida",
+        "Probióticos naturales",
+        "Bajo en grasa"
+      ],
+      "stock": 30,
+      "isNew": true,
+      "isFeatured": false,
+      "salesCount": 89,
+      "createdAt": "2024-01-20T00:00:00Z",
+      "updatedAt": "2024-02-01T00:00:00Z"
+    },
+    {
+      "id": "prod-3",
+      "name": "Yogurt Kéfir Natural 1/2 L",
+      "slug": "leche-entera-premium-1l",
+      "description": "Leche entera fresca de alta calidad, rica en calcio y vitaminas. Perfecta para toda la familia.",
+      "shortDescription": "Elaborado de leche fresca alto en probióticos. Sin azúcar añadida.",
+      "price": 12.00,
+      "discountPrice": null,
+      "category": {
+        "id": "cat-3",
+        "name": "Lácteos",
+        "slug": "lacteos"
+      },
+      "imageUrl": "/images/products/yogurt-kefir-natural-500g.png",
+      "images": [
+        "/images/products/kefir2.jpeg",
+        "/images/products/kefir3.jpeg"
+      ],
+      "nutritionalInfo": {
+        "servingSize": "240ml",
+        "calories": 150,
+        "totalFat": "8g",
+        "saturatedFat": "5g",
+        "transFat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "120mg",
+        "totalCarbohydrate": "12g",
+        "dietaryFiber": "0g",
+        "sugars": "12g",
+        "protein": "8g",
+        "vitamins": {
+          "Calcio": "30%",
+          "Vitamina D": "25%"
+        }
+      },
+      "characteristics": [
+        "100% natural",
+        "Sin conservantes",
+        "Pasteurizada",
+        "Rica en calcio"
+      ],
+      "stock": 50,
+      "isNew": false,
+      "isFeatured": true,
+      "salesCount": 245,
+      "createdAt": "2024-01-15T00:00:00Z",
+      "updatedAt": "2024-02-01T00:00:00Z"
+    },
+    {
+      "id": "prod-4",
+      "name": "Yogurt Kéfir Mango 1/2 L",
+      "slug": "leche-entera-premium-1l",
+      "description": "Leche entera fresca de alta calidad, rica en calcio y vitaminas. Perfecta para toda la familia.",
+      "shortDescription": "Elaborado de leche y pulpa de mango. Sin saborizantes artificiales.",
+      "price": 14.00,
+      "discountPrice": null,
+      "category": {
+        "id": "cat-4",
+        "name": "Lácteos",
+        "slug": "lacteos"
+      },
+      "imageUrl": "/images/products/yogurt-kefir-mango-500g.png",
+      "images": [
+        "/images/products/kefir2.jpeg",
+        "/images/products/kefir3.jpeg"
+      ],
+      "nutritionalInfo": {
+        "servingSize": "240ml",
+        "calories": 150,
+        "totalFat": "8g",
+        "saturatedFat": "5g",
+        "transFat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "120mg",
+        "totalCarbohydrate": "12g",
+        "dietaryFiber": "0g",
+        "sugars": "12g",
+        "protein": "8g",
+        "vitamins": {
+          "Calcio": "30%",
+          "Vitamina D": "25%"
+        }
+      },
+      "characteristics": [
+        "100% natural",
+        "Sin conservantes",
+        "Pasteurizada",
+        "Rica en calcio"
+      ],
+      "stock": 50,
+      "isNew": true,
+      "isFeatured": true,
+      "salesCount": 245,
+      "createdAt": "2024-01-15T00:00:00Z",
+      "updatedAt": "2024-02-01T00:00:00Z"
+    },
+    {
+      "id": "prod-5",
+      "name": "Búlgaros de leche 20 g",
+      "slug": "leche-entera-premium-1l",
+      "description": "Leche entera fresca de alta calidad, rica en calcio y vitaminas. Perfecta para toda la familia.",
+      "shortDescription": "Fermentado de búlgaros vivos y leche fresca.",
+      "price": 25.00,
+      "discountPrice": null,
+      "category": {
+        "id": "cat-5",
+        "name": "Lácteos",
+        "slug": "lacteos"
+      },
+      "imageUrl": "/images/products/bulgaros.png",
+      "images": [
+        "/images/products/kefir2.jpeg",
+        "/images/products/kefir3.jpeg"
+      ],
+      "nutritionalInfo": {
+        "servingSize": "240ml",
+        "calories": 150,
+        "totalFat": "8g",
+        "saturatedFat": "5g",
+        "transFat": "0g",
+        "cholesterol": "30mg",
+        "sodium": "120mg",
+        "totalCarbohydrate": "12g",
+        "dietaryFiber": "0g",
+        "sugars": "12g",
+        "protein": "8g",
+        "vitamins": {
+          "Calcio": "30%",
+          "Vitamina D": "25%"
+        }
+      },
+      "characteristics": [
+        "100% natural",
+        "Sin conservantes",
+        "Pasteurizada",
+        "Rica en calcio"
+      ],
+      "stock": 50,
+      "isNew": false,
+      "isFeatured": true,
+      "salesCount": 245,
+      "createdAt": "2024-01-15T00:00:00Z",
+      "updatedAt": "2024-02-01T00:00:00Z"
+    }
+  ]
+}

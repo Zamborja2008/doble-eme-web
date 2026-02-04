@@ -1,0 +1,32 @@
+{
+  "cards": [
+    {
+      "id": "card-1",
+      "icon": "Heart",
+      "title": "100% Natural",
+      "description": "Elaborado de forma artesanal sin aditivos ni conservantes artificiales",
+      "order": 1
+    },
+    {
+      "id": "card-2",
+      "icon": "Leaf",
+      "title": "Probióticos Vivos",
+      "description": "Millones de bacterias beneficiosas en cada porción para tu salud intestinal",
+      "order": 2
+    },
+    {
+      "id": "card-3",
+      "icon": "Shield",
+      "title": "Calidad Garantizada",
+      "description": "Producción bajo estrictos controles de higiene y calidad",
+      "order": 3
+    },
+    {
+      "id": "card-4",
+      "icon": "Truck",
+      "title": "Entrega Fresca",
+      "description": "Preparado el mismo día para garantizar frescura y calidad óptima",
+      "order": 4
+    }
+  ]
+}
