@@ -7,8 +7,8 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'Kefir Natural - Probióticos Artesanales 100% Naturales',
-  description: 'Kefir natural y artesanal elaborado diariamente. Rico en probióticos, sin conservantes, entrega fresca. ¡Cuida tu salud de forma natural!',
-  keywords: 'kefir, probióticos, natural, artesanal, salud digestiva, Lima, Perú',
+  description: 'Kéfir natural y artesanal elaborado diariamente. Rico en probióticos, sin conservantes, entrega fresca. ¡Cuida tu salud de forma natural!',
+  keywords: 'kéfir, probióticos, natural, artesanal, salud digestiva, Lima, Perú',
   verification: {
     google: 'google189565fe198468a1',
   },
