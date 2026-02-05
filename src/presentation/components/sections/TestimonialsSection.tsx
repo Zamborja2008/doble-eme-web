@@ -10,15 +10,15 @@ const testimonials = [
     location: 'Callao, Callao',
     rating: 5,
     comment: 'El mejor kéfir que he probado. Completamente natural y fresco. Mi digestión ha mejorado notablemente desde que lo consumo diariamente.',
-    date: '2024-01-15',
+    date: '2026-01-15',
   },
   {
     id: '2',
     name: 'Brian Álvarez',
     location: 'San Miguel, Lima',
     rating: 4,
-    comment: 'Producto de excelente calidad, se nota que es artesanal. La entrega fue rápida y el servicio al cliente es muy bueno.',
-    date: '2024-01-20',
+    comment: 'Buen día!. Muchas gracias por el Kefir, muy rico sabor y son notorios los beneficios que proporciona su consumo.',
+    date: '2026-02-04',
   },
   {
     id: '3',
@@ -26,7 +26,7 @@ const testimonials = [
     location: 'Chincha, Perú',
     rating: 3,
     comment: 'Me encanta el sabor y la textura. Mis hijos también lo disfrutan. Es una alternativa saludable que toda la familia puede disfrutar.',
-    date: '2024-01-25',
+    date: '2026-01-25',
   },
 ];
 
