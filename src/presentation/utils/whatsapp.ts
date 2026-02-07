@@ -7,7 +7,7 @@ interface WhatsAppMessageParams {
 }
 
 export function generateWhatsAppLink({ product, quantity = 1 }: WhatsAppMessageParams): string {
-  const phoneNumber = '5191204748'; // Cambia por tu número (código país + número sin +)
+  const phoneNumber = '51940942119'; // Cambia por tu número (código país + número sin +)
   
   const message = `Hola! Me interesa este producto:
 

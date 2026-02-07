@@ -92,7 +92,7 @@ export function TestimonialsSection() {
           <button
             onClick={() => {
               const message = encodeURIComponent('Hola! Me gustaría dejar un comentario sobre los productos');
-              window.open(`https://wa.me/51912304748?text=${message}`, '_blank');
+              window.open(`https://wa.me/51940942119?text=${message}`, '_blank');
             }}
             className="inline-flex items-center gap-2 bg-green-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-green-700 transition-colors"
           >
