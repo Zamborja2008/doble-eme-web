@@ -34,7 +34,7 @@
   "products": [
     {
       "id": "prod-1",
-      "name": "Yogurt Kéfir Natural 1 L",
+      "name": "Kéfir Natural 1 L",
       "slug": "leche-entera-premium-1l",
       "description": "Leche entera fresca de alta calidad, rica en calcio y vitaminas. Perfecta para toda la familia.",
       "shortDescription": "Elaborado de leche fresca alto en probióticos. Sin azúcar añadida.",
@@ -82,9 +82,9 @@
     },
     {
       "id": "prod-2",
-      "name": "Yogurt Kéfir Mango 1 L",
-      "slug": "yogurt-natural-1kg",
-      "description": "Yogurt natural cremoso sin azúcar añadida. Ideal para desayunos saludables.",
+      "name": "Kéfir Mango 1 L",
+      "slug": "Kéfir-natural-1kg",
+      "description": "Kéfir natural cremoso sin azúcar añadida. Ideal para desayunos saludables.",
       "shortDescription": "Elaborado de leche y pulpa de mango. Sin saborizantes artificiales.",
       "price": 26.00,
       "discountPrice": null,
@@ -109,7 +109,7 @@
     },
     {
       "id": "prod-3",
-      "name": "Yogurt Kéfir Natural 1/2 L",
+      "name": "Kéfir Natural 1/2 L",
       "slug": "leche-entera-premium-1l",
       "description": "Leche entera fresca de alta calidad, rica en calcio y vitaminas. Perfecta para toda la familia.",
       "shortDescription": "Elaborado de leche fresca alto en probióticos. Sin azúcar añadida.",
@@ -157,7 +157,7 @@
     },
     {
       "id": "prod-4",
-      "name": "Yogurt Kéfir Mango 1/2 L",
+      "name": "Kéfir Mango 1/2 L",
       "slug": "leche-entera-premium-1l",
       "description": "Leche entera fresca de alta calidad, rica en calcio y vitaminas. Perfecta para toda la familia.",
       "shortDescription": "Elaborado de leche y pulpa de mango. Sin saborizantes artificiales.",

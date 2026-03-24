@@ -35,7 +35,7 @@ export function HeroCarousel({ slides }: HeroCarouselProps) {
       <div className="max-w-6xl mx-auto px-4">
         <div className="relative bg-white rounded-2xl shadow-xl overflow-hidden">
           {/* Slides */}
-          <div className="relative min-h-[400px] md:min-h-[450px]">
+          <div className="relative min-h-[500px] md:min-h-[450px]">
             {slides.map((slide, index) => (
               <div
                 key={slide.id}
@@ -49,11 +49,11 @@ export function HeroCarousel({ slides }: HeroCarouselProps) {
               >
                 <div className="grid grid-cols-1 md:grid-cols-2 h-full">
                   {/* Contenido */}
-                  <div className="p-8 md:p-12 flex flex-col justify-center">
-                    <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
+                  <div className="p-6 md:p-12 flex flex-col justify-center overflow-y-auto max-h-[500px] md:max-h-none">
+                    <h2 className="text-2xl md:text-4xl font-bold text-gray-900 mb-4">
                       {slide.title}
                     </h2>
-                    <p className="text-gray-600 leading-relaxed text-lg">
+                    <p className="text-gray-600 leading-relaxed text-sm md:text-lg">
                       {slide.description}
                     </p>
                   </div>

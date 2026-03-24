@@ -34,7 +34,7 @@ export function Footer({ config }: FooterProps) {
               alt={config.siteName}
               width={150}
               height={60}
-              className="w-auto brightness-0 invert"
+              className="w-auto"
               style={{ height: '48px' }}
             />
             <p className="text-gray-400 text-sm leading-relaxed">
